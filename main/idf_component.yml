@@ -1,0 +1,5 @@
+## 组件依赖（idf.py 第一次 build 时自动从 components.espressif.com 拉取）
+dependencies:
+  idf: ">=5.1"
+  espressif/esp32-camera: "^2.0.4"
+  espressif/esp-dl: ">=3.0.0"
